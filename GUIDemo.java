@@ -35,6 +35,8 @@ public class GUIDemo extends JFrame
         panel.add(smallerButton);
 
         setVisible(true);
+        
+        System.out.println("Hello World");
     }
 
     /**
